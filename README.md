@@ -7,7 +7,7 @@ This Ruby Gem provides Infinite Fitness Crossfit a CLI to help the client (user)
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'daily_deal'
+gem 'IFF'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install daily_deal
+    $ gem install IFF
 
 ## Usage
 
