@@ -1,4 +1,4 @@
-# DailyDeal
+# IFF
 
 This Ruby Gem provides Infinite Fitness Crossfit a CLI to help the client (user) find a class that suits their needs 
 
