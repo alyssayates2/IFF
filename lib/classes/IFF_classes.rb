@@ -24,8 +24,6 @@ class IFF::IFF_classes
         @description = description
         @@classes << self 
     end 
-
-   # binding.pry
  end   
 
  
